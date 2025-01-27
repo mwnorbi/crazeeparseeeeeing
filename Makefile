@@ -1,0 +1,2 @@
+btest:
+	go test -bench=.
